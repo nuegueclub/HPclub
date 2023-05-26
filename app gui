@@ -3,3 +3,15 @@ import streamlit as st
 st.header('HP')
 sb = st.sidebar
 menu = sb.selectbox('목록', ['Kartell', 'Math꺼움', 'def cartel;', 'P&M'])
+
+if menu == 'Kartell':
+  pass
+  
+elif menu == 'Math꺼움':
+  pass
+  
+elif menu == 'def cartel':
+  pass
+  
+elif menu == 'P%M':
+  pass
